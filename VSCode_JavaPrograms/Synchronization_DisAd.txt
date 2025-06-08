@@ -1,0 +1,15 @@
+
+Reentrant Lock have below features(advantages) - (explicit locking in multithreading)
+-Lock
+-Unlock
+-tryLock
+-deadlock prevention
+-lockInterruptibility
+-fairness
+
+disadvantages of synchronization-:
+
+1> there is no guarentee of fairness
+2> here indefinately blocking
+3> there is no Interruptibility in synchronization
+4> in synchronization we don't know which one is read locking and which one is write locking
