@@ -1,0 +1,11 @@
+Summary of SOLID Principles in System Design
+
+SRP: Ensures modules or classes have a single purpose, reducing complexity in large systems.
+OCP: Allows systems to extend functionality (e.g., adding new services) without modifying existing code, crucial for scalability.
+LSP: Guarantees that components can be swapped in polymorphic systems, maintaining correctness in plugin or modular architectures.
+ISP: Promotes fine-grained interfaces, reducing unnecessary dependencies in distributed systems or APIs.
+DIP: Facilitates loose coupling, enabling flexible and testable systems, such as in microservices or layered architectures.
+
+By applying SOLID principles, you create systems that are easier to maintain, extend, and test,
+which is vital for building robust, large-scale applications. Each principle addresses a specific
+aspect of design, and together, they form a foundation for clean and maintainable code.
